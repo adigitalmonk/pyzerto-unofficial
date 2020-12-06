@@ -1,0 +1,12 @@
+[MASTER]
+
+disable=invalid-name,
+        line-too-long,
+        trailing-whitespace,
+        trailing-newlines,
+        unused-import,
+        no-else-return,
+        fixme,
+        too-many-public-methods,
+        too-many-arguments,
+        too-many-lines
